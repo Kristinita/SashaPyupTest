@@ -1,1 +1,1 @@
-pygoogling==0.0.1
+pygoogling==0.0.2

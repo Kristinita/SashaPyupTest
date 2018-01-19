@@ -1,0 +1,11 @@
+user_commands:
+    sasha_kristinitaluckylink_duckduckgo:
+        keys:
+        - <c>+alt+shift+d
+        caption: 'KristinitaLuckyLink: DuckDuckGo'
+        call: sublime.kristinita_lucky_link_duck_duck_go
+    sasha_kristinitaluckylink_google:
+        keys:
+        - <c>+alt+shift+g
+        caption: 'KristinitaLuckyLink: Google'
+        call: sublime.kristinita_lucky_link_google
